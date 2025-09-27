@@ -1,0 +1,5 @@
+{
+  "name": "Webtoon-AI Storyboarder",
+  "description": "Empower your webtoon creation by significantly accelerating the storyboard process. This intelligent AI application analyzes your story text and automatically generates visually consistent storyboards with dialogue in speech bubbles, leveraging cutting-edge image generation models.",
+  "requestFramePermissions": []
+}
